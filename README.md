@@ -10,3 +10,6 @@ Thanking you, welcoming, and dreaming as MILLIONSTARS! Based on THE iDOLM@STER M
 
 **Side Stars**:
 A journey to become idols for a reason is just getting started.  Based on THE iDOLM@STER SideM: GROWING STARS.
+
+**Slick**:
+Clean and concise.
