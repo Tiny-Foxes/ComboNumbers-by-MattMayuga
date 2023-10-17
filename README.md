@@ -9,6 +9,9 @@ This repo hosts the data files for combo number graphics made by MattMayuga, wit
 **765PRO LIVE THEATER STAGE**\*:
 Thanking you, welcoming, and dreaming as MILLIONSTARS! Based on THE iDOLM@STER MILLION LIVE!: Theater Days. 
 
+**Dreams of the Band**:
+Make sure to bring your musical instruments for a poppin' party. Based on BanG Dream! Girls Band Party!.
+
 **Mishiro Stage**\*:
 Step right into the Cinderella stage. Based on THE iDOLM@STER CINDERELLA GIRLS: Starlight Stage.
 
@@ -21,6 +24,8 @@ Clean and concise.
 ## Copyright
 
 *Except as noted, all titles, associated characters and elements are trademarks and copyrights of their respective owners.*
+
+BanG Dream! Girls Band Party!™& ©BanG Dream! Project, Craft Egg Inc., and Bushiroad.
 
 THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
