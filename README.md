@@ -33,7 +33,7 @@ Based on 8 beat story.
 **Side Stars**:
 A journey to become idols for a reason is just getting started.  Based on THE iDOLM@STER SideM: GROWING STARS.
 
-**Sirius Dreams**:
+**Sirius Dreams**★:
 Want to make your dreams come true just like the girls who want to do so? And you want more than that? Well you can! Based on World Dai Star: Yume no Stellarium.
 
 **Slick**:
