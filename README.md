@@ -10,7 +10,6 @@ This repo hosts the data files for combo number graphics made by MattMayuga.
 Thanking you, welcoming, and dreaming as MILLIONSTARS! Based on THE iDOLM@STER MILLION LIVE!: Theater Days. Now in a new remastered version featuring the newly added rainbow (ALL PERFECT) variant, as well as reworked normal (silver) and gold (color) variants!
 
 **765PRO LIVE THEATER STAGE LEGACY**★ ***(Outdated)***:
-
 The original version of the 765PRO LIVE THEATER STAGE combo font.
 
 **Dreams of the Band**:
