@@ -2,6 +2,8 @@
 
 This repo hosts the data files for combo number graphics made by MattMayuga.
 
+If you're looking for the versions for the Alpha V Dance theme, see [this link](https://github.com/Tiny-Foxes/AlphaV-ComboFonts).
+
 ## Combo number descriptions
 
 ***Note**: If the name of the combo number set has an star (★) on it, it means there are multiple colored and/or monochrome variants of it. Monochrome is compatible with almost anything. Colored variants can be based on whatever it’s based upon. For example, the Color variant of 765PRO LIVE THEATER STAGE uses the gold-colored combo numbers used in MILLION LIVE!: Theater Days’ combo font.*
