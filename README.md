@@ -14,6 +14,12 @@ Thanking you, welcoming, and dreaming as MILLIONSTARS! Based on THE iDOLM@STER M
 **765PRO LIVE THEATER STAGE LEGACY**★ ***(Outdated)***:
 The original version of the 765PRO LIVE THEATER STAGE combo font.
 
+**765PRO LIVE THEATER STAGE SPECIAL**★:
+An alternate color variant of the 765PRO LIVE THEATER STAGE combo font.
+
+**Colorfully Sekai**:
+Traverse through a Sekai with flying colors. Based on the combo numbers from Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU before the UI revamp in September 2023.
+
 **Dreams of the Band**:
 Make sure to bring your musical instruments for a poppin’ party. Based on BanG Dream! Girls Band Party!.
 
@@ -46,6 +52,10 @@ If you’re an elephant, you can still enter pipes even with that size and weigh
 
 ## Patch notes
 
+### 2026/07/21
+
+- Added the combo fonts **765PRO LIVE THEATER STAGE SPECIAL** and **Colorfully Sekai**.
+
 ### 2025/06/22
 
 - The **765PRO LIVE THEATER STAGE** combo font has been remastered.
@@ -58,9 +68,9 @@ If you’re an elephant, you can still enter pipes even with that size and weigh
 
 ## Copyright
 
-8 beat Story♪™& ©Chronus V Inc. and GMO Connect Inc.
-
 *Except as noted, all titles, associated characters and elements are trademarks and copyrights of their respective owners.*
+
+8 beat Story♪™& ©Chronus V Inc. and GMO Connect Inc.
 
 BanG Dream! Girls Band Party!™& ©BanG Dream! Project, Craft Egg Inc., and Bushiroad.
 
